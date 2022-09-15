@@ -25,4 +25,6 @@ Inversion | integer | 100
 
 
 ## UX Wireframe
-![judul](https://dpbnri2zg3lc2.cloudfront.net/en/wp-content/uploads/old-blog-uploads/mapping-out-a-user-flow-by-hand.jpg)
+![CamScanner 09-15-2022 07 17](https://user-images.githubusercontent.com/101171623/190286151-a64c3379-21ec-4469-bd80-705a60abf455.jpg)
+
+
