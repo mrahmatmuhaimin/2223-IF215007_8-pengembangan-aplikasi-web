@@ -13,6 +13,6 @@
 - Dosen mendapatkan feedback sebuah pdf nama-nama mahasiswa yang hadir
 
 ## UX Wireframe
-!
+![Screenshot 2022-09-15 204610](https://user-images.githubusercontent.com/101171623/190433577-f1fca778-d0fd-4671-938b-12419e596e0d.png)
 
 
