@@ -5,14 +5,12 @@
 - Banyaknya Mahasiswa yang nitip absen ke temannya 
 
 ## Rancangan Solusi
-- Bikin aplikaasi image editor yang mampu memberikan layanan sederhana yg mudah dipahami dan pastinya gratis
-- User bisa mengedit foto dengan pilihan menu brightness, saturation, inversion, grayscale, rotation, dan flip
+- Mahasiswa memiliki kode QR sendiri terus dosen sendiri yang akan menscan kode QR mahasiswa tersebut sehingga mahasiswa tersebut dikatakan hadir  
 
 ## Use Case
-- User bisa dengan langsung mengupload foto ke website
-- User bisa memilih menu edit foto yang tersedia
-- User bisa mulai mengedit sesuai menu yang ditekan sebelumnya 
-- User bisa mendownload hasil edit foto yang telah dibuat sebelumnya
+- User mahasiswa mendapatkan kode qr masing-masing
+- User Dosen bisa scan kode qr mahasiswa
+- Dosen mendapatkan feedback sebuah pdf nama-nama mahasiswa yang hadir
 
 ## UX Wireframe
 !
