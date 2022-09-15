@@ -1,7 +1,8 @@
 # Template Proposal
 
 ## Permasalahan
-- banyak image editor yang layanannya susah dipahami padahal hanya ingin mengedit sederhana saja
+- Absensi Mahasiswa yang masih terlalu tradisional 
+- Banyaknya Mahasiswa yang nitip absen ke temannya 
 
 ## Rancangan Solusi
 - Bikin aplikaasi image editor yang mampu memberikan layanan sederhana yg mudah dipahami dan pastinya gratis
@@ -14,6 +15,6 @@
 - User bisa mendownload hasil edit foto yang telah dibuat sebelumnya
 
 ## UX Wireframe
-![CamScanner 09-15-2022 07 17](https://user-images.githubusercontent.com/101171623/190286151-a64c3379-21ec-4469-bd80-705a60abf455.jpg)
+!
 
 
