@@ -19,3 +19,35 @@ link video Bahan Ajar 5 SD : https://youtu.be/-cqq3JHV1AA
 ### NodeJS & NPM installation
 ![Screenshot_20221219_140803](https://user-images.githubusercontent.com/101171623/208368027-19016981-f32f-4c32-b0e9-8cc1756be474.png)
 
+### MobaXterm installation & SSH connection
+![Screenshot_20221219_144017](https://user-images.githubusercontent.com/101171623/208372712-51a5ee4b-9b8b-4428-8ad1-288c25ed8dfb.png)
+
+### Apache web server installation
+![image](https://user-images.githubusercontent.com/101171623/208373072-b85fc3d5-2f54-4bfa-a71b-3f74b7ffe80b.png)
+
+### HTML Responsive Layout with Media Query & Flexbox
+![Screenshot_20221219_144650](https://user-images.githubusercontent.com/101171623/208373746-63ef7b3b-4fcf-4581-b726-46feaded9aca.png)
+![image](https://user-images.githubusercontent.com/101171623/208373801-60a7bdf0-f061-4850-93ff-25f3f1ce1b03.png)
+
+### Javascript Data Transformation
+![image](https://user-images.githubusercontent.com/101171623/208373963-2569e546-bab8-43fc-998f-2b60c74788bf.png)
+![image](https://user-images.githubusercontent.com/101171623/208374307-df72c348-27da-4d65-932f-4bd85c343ef3.png)
+
+
+### Browser API - Event Handling, Local Storage, Element manipulation
+![image](https://user-images.githubusercontent.com/101171623/208374142-10c8bd87-a399-47cf-95cb-b7e95e0227b5.png)
+
+### HTTP GET & POST using Form Action and Fetch API
+![image](https://user-images.githubusercontent.com/101171623/208374472-30478ba8-4e60-4de0-8803-a4214c62ad23.png)
+
+### Web Service
+![image](https://user-images.githubusercontent.com/101171623/208374574-f65257f6-db25-446f-940f-536375691a65.png)
+
+### Dynamic Web Page
+![image](https://user-images.githubusercontent.com/101171623/208374789-5692f30d-d4ac-4be6-a899-9b6e086ab862.png)
+![image](https://user-images.githubusercontent.com/101171623/208374898-1c0b862c-cc41-45f2-a02e-5c92baf91ac8.png)
+
+### Single Page App with React & React-router
+![image](https://user-images.githubusercontent.com/101171623/208375470-47a792bc-53da-4eb0-ade7-48ad19b1989d.png)
+![image](https://user-images.githubusercontent.com/101171623/208374789-5692f30d-d4ac-4be6-a899-9b6e086ab862.png)
+![Screenshot_20221219_145611](https://user-images.githubusercontent.com/101171623/208375253-bda795e5-5eb5-4461-a2c6-63c76bbfaede.png)
