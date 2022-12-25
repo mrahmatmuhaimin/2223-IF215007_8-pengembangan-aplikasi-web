@@ -16,14 +16,23 @@ link video Bahan Ajar 5 SD : https://youtu.be/-cqq3JHV1AA
 ### Hapi Installation
 ![image](https://user-images.githubusercontent.com/101171623/208367055-1c61edc4-e010-45dd-8148-e7bb9bc5589e.png)
 
-### NodeJS & NPM installation
-![Screenshot_20221219_140803](https://user-images.githubusercontent.com/101171623/208368027-19016981-f32f-4c32-b0e9-8cc1756be474.png)
+### PostgreSQL
+![image](https://user-images.githubusercontent.com/101171623/209472016-c8c087a2-fb59-41f9-84aa-68155ca95f75.png)
+
+### TablePlus DB Connection
+![image](https://user-images.githubusercontent.com/101171623/209472117-7aa3f5bd-4406-4970-bcd9-0f370da5ae3c.png)
 
 ### MobaXterm installation & SSH connection
 ![Screenshot_20221219_144017](https://user-images.githubusercontent.com/101171623/208372712-51a5ee4b-9b8b-4428-8ad1-288c25ed8dfb.png)
 
+### NodeJS & NPM installation
+![Screenshot_20221219_140803](https://user-images.githubusercontent.com/101171623/208368027-19016981-f32f-4c32-b0e9-8cc1756be474.png)
+
 ### Apache web server installation
 ![image](https://user-images.githubusercontent.com/101171623/208373072-b85fc3d5-2f54-4bfa-a71b-3f74b7ffe80b.png)
+
+CPanel
+![image](https://user-images.githubusercontent.com/101171623/209472220-1c092342-bf48-4946-a41f-fe7586109c44.png)
 
 ### HTML Responsive Layout with Media Query & Flexbox
 ![Screenshot_20221219_144650](https://user-images.githubusercontent.com/101171623/208373746-63ef7b3b-4fcf-4581-b726-46feaded9aca.png)
@@ -32,7 +41,6 @@ link video Bahan Ajar 5 SD : https://youtu.be/-cqq3JHV1AA
 ### Javascript Data Transformation
 ![image](https://user-images.githubusercontent.com/101171623/208373963-2569e546-bab8-43fc-998f-2b60c74788bf.png)
 ![image](https://user-images.githubusercontent.com/101171623/208374307-df72c348-27da-4d65-932f-4bd85c343ef3.png)
-
 
 ### Browser API - Event Handling, Local Storage, Element manipulation
 ![image](https://user-images.githubusercontent.com/101171623/208374142-10c8bd87-a399-47cf-95cb-b7e95e0227b5.png)
