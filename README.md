@@ -55,6 +55,9 @@ CPanel
 ![image](https://user-images.githubusercontent.com/101171623/208374789-5692f30d-d4ac-4be6-a899-9b6e086ab862.png)
 ![image](https://user-images.githubusercontent.com/101171623/208374898-1c0b862c-cc41-45f2-a02e-5c92baf91ac8.png)
 
+### HTML Responsive Layout with Bootstrap
+![image](https://user-images.githubusercontent.com/101171623/209521366-5bcd689e-57d6-4906-a716-33ee6b83f599.png)
+
 ### Single Page App with React & React-router
 ![image](https://user-images.githubusercontent.com/101171623/208375470-47a792bc-53da-4eb0-ade7-48ad19b1989d.png)
 ![image](https://user-images.githubusercontent.com/101171623/208374789-5692f30d-d4ac-4be6-a899-9b6e086ab862.png)
@@ -62,4 +65,7 @@ CPanel
 
 ### Domain Registration
 ![image](https://user-images.githubusercontent.com/101171623/209520588-4b08ca86-e678-444a-a061-9a609a0331dd.png)
+
+### News Site using Wordpress
+![WhatsApp Image 2022-12-26 at 14 57 31](https://user-images.githubusercontent.com/101171623/209521620-a7125903-7676-4b0d-8257-c7f20d157195.jpg)
 
